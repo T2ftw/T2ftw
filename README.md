@@ -93,16 +93,16 @@ I practice on **LeetCode** and **GeeksforGeeks** regularly — not because I enj
 ## My Learning Journey
 
 ```
-2024 - Early  ──▶  Started with Java · Core programming fundamentals
+2025 - Early  ──▶  Started with Java · Core programming fundamentals
                    OOP, functions, objects, arrays
 
-2024 - Mid    ──▶  Data Structures: Stacks, Queues, Linked Lists
+2026 - Mid    ──▶  Data Structures: Stacks, Queues, Linked Lists
                    Started competitive problem solving (GFG, LeetCode)
 
-2024 - Late   ──▶  HTML · CSS · Bootstrap · Web fundamentals
+2026 - Late   ──▶  HTML · CSS · Bootstrap · Web fundamentals
                    First browser projects
 
-2025 - Now    ──▶  JavaScript (advancing) · React · Advanced DSA
+2026 - Now    ──▶  JavaScript (advancing) · React · Advanced DSA
                    Full-stack direction · Game dev exploration
 ```
 
